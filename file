@@ -1,0 +1,3 @@
+frontend container:
+Backend container:
+Database container: use offical mongodb imagre,coonfiguring it to persist data and post content through mounted volume
